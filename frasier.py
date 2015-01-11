@@ -9,7 +9,7 @@ from glob import glob
 
 def parse(input, characters=[], prefix_speaker=False):
     if len(characters) == 0:
-        characters = ['Frasier']
+        characters = ["Frasier"]
     characters = map(str.lower, characters)
     parse = False
     out = ""
@@ -24,7 +24,7 @@ def parse(input, characters=[], prefix_speaker=False):
                 parse = True
                 print_out(out)
                 if prefix_speaker:
-                    out = speaker + ': ' + text
+                    out = speaker + ": " + text
                 else:
                     out = text
                 continue
@@ -55,7 +55,7 @@ def unsmarten(text):
     # smart double quotes: “”
     text = text.replace(u"\u201c", '"').replace(u"\u201d", '"')
     # dashes: –
-    text = text.replace(u"\u2013", '-')
+    text = text.replace(u"\u2013", "-")
     return text
 
 if __name__ == "__main__":
