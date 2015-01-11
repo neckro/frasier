@@ -1,0 +1,685 @@
+
+[10.11] Door Jam
+
+Door Jam                                     Written by Heide Perlman
+                                              Directed by Scott Ellis 
+=====================================================================
+
+Production Code: 10.11
+Episode Number In Production Order: 220
+Filmed on:
+Original Airdate on NBC:  January 7, 2003
+Transcript written on January 26, 2002
+
+Skyline: A monorail crosses the city skyline.
+
+Transcript {David Langley}
+
+[N.B. This episode originally had a subplot about Daphne trying to expand 
+her physical therapy clientele, featuring actress Ana Gasteyer as a physical 
+therapist observing the techniques Daphne used with Martin.  Director David 
+Lee later said the subplot hadn't turned out as well as hoped, so the subplot
+was scrapped.  Gasteyer returned to play housekeeper Trish Haney in [10.07]
+"Bristle While You Work," which was filmed after this episode.]
+
+[Act 1
+
+Scene 1 -Frasier's Apartment
+Martin is lying prone on a gurney.  Daphne massages his hip.]
+
+ Martin:  Ow! All right, all right, I'll talk!  Just make the pain stop.
+ Daphne:  Oh, shut up.  I'm just trying to get the blood flowing.
+ Martin:  Oh, more like make me hemorrhage.
+ Daphne:  Don't tempt me.
+ Martin:  Oh, God, you broke something!
+ Daphne:  Too bad it wasn't your bloody pie hole!  There, we're done,
+          you big baby.
+ Martin:  [genuinely disappointed] What, already? [rising] Oh, that felt
+          great! Oh!  I feel like a new man.  I love your new table.
+ Daphne:  Oh, you're sweet.  Can I make you a sandwich?
+ Martin:  Oh, that'd be great.  Yeah.  Oh, by the way, Daph, you know,
+          they're showing the first-ever episode of Rockford today.
+          If you're really serious about becoming an American citizen,
+          maybe you ought to watch it.
+
+[Martin sits in his chair.  Frasier and Niles enter.  Frasier is holding
+an envelope.]
+
+  Niles:  Well, now you've opened it.  That's mail theft.
+Frasier:  Nonsense.
+ Martin:  What's going on?
+Frasier:  Nothing.  Just another piece of Cam Winston's mail has found
+          its way into our box.  It's been happening a lot since we
+          switched mailboxes.  Even after I gave the postman a stern
+          lecture.
+ Martin:  Especially after.
+Frasier:  Anyway, it was an honest mistake.  Cam and I are on all the
+
+
+          same mailing lists, and I'm sure mine is in his box.  Besides,
+          it's nothing personal, look, it's just an announcement for
+          some place called La Porte d'Argent.
+ Martin:  Probably just another froufrou restaurant or froufrou clothing
+          store.
+Frasier:  No, no, no, this is not "froufrou," Dad, as evidenced by the
+          manly scent of balsam.
+  Niles:  [taking the letter and sniffing] Hmm.
+Frasier:  They obviously deal with a very upscale clientele.
+  Niles:  Hmm.  Oh!  La Porte d'Argent!  Someone at the racquet club
+          was talking about this.  It's very, very exclusive.
+Frasier:  [excitedly] Yes?
+  Niles:  That's all I know.  Some ill-mannered person started up his
+          blow dryer before I could hear any more.
+ Daphne:  [entering from the kitchen with Martin's sandwich] Hello!
+  Niles:  Oh, Daphne, Daphne!  Did I get one of these [holding up the
+          announcement] in the mail today?
+ Daphne:  No, I don't think so.
+Frasier:  [grabbing the announcement] Poor Niles.
+ Daphne:  What's this about?
+ Martin:  Oh, they're all worked up about some smelly invitation Frasier
+          stole to some place they never heard of.
+ Daphne:  [unsurprised] Oh.
+Frasier:  Yes, but that's what's so intriguing, Dad, that there exists
+          an exclusive place in Seattle that neither of us knows about.
+
+[Niles picks up the phone and starts dialing.]
+
+ Niles:  [rising] It could be an art gallery, or a new haberdashery.
+Martin:  Or an Italian shoelace boutique.
+
+[Daphne laughs at this.]
+
+  Niles:  What's happening?
+Frasier:  It's a machine.  It's asking me to enter my six-digit
+          access code.  What'll I do?
+ Martin:  Why don't you just punch in whatever keys spell out "SNOBBY"?
+
+[Frasier glares at him.]
+
+Niles:  You know, it might be worth a try.
+
+[Frasier punches it in, listens, then grimaces.]
+
+Frasier:  Oh, denied!
+  Niles:  Oh!  The allure of the Porte D'Argent has increased tenfold!
+Frasier:  All right, here's our plan.  We go to the university computer
+          lab, bribe some hungry hacker, and, once we've tapped into
+          their mainframe, La Porte D'Argent will give up her sweet secret
+          like a blushing bride on her wedding night!
+ Martin:  Why don't you just go down there and ask them what they do?
+
+[Frasier and Niles look taken aback.]
+
+Frasier:  All right, Dad, that's a "Plan B".
+
+[Fade out.]
+
+PLAN B
+
+Scene 2 - La Porte D'Argente
+
+
+[Fade in.  Frasier comes into the reception area, admires the stylish
+decor and then goes to the front desk.]
+
+     Frasier:  Hello.  Uh, is this La Porte D'Argent?
+Receptionist:  Yes, it is.
+     Frasier:  Ah, good.  Say, someone was asking me earlier today
+               about La Porte D'Argent, and I had a difficult time
+               characterizing it.  What would you tell him?
+Receptionist:  We try to discourage word of mouth.
+     Frasier:  That's exactly what I said.  So, well, I'm here to take
+               advantage of your offer.
+
+[He hands the invitation over.]
+
+Receptionist:  Sure.  Can I have your name, please?
+     Frasier:  Yes.  Frasier Crane.
+Receptionist:  [typing it into the computer]  I'm not finding you.
+     Frasier:  Try Doctor Frasier Crane.  Perhaps you've heard my
+               popular radio show.
+Receptionist:  I'm not really a radio person.  I'm sorry Dr. Crane,
+               you're not on the list, I can't let you in.
+     Frasier:  But I have an invitation.
+Receptionist:  Yes, but you're not on the list.
+     Frasier:  Yes, but I do have an invitation!
+Receptionist:  But you aren't on the LIST.
+     Frasier:  Yes, well, if I was on the list, I wouldn't need an
+               invitation, I'd just say "I'm on the list."  Therefore,
+               the invitation supercedes the list.
+Receptionist:  No, invitations are given out only to those on the list.
+     Frasier:  Ah-ha.  But you do concede that I do have a valid
+               invitation?
+Receptionist:  Yes.
+     Frasier:  Then it naturally follows that I would be on the list.
+Receptionist:  But you're not.
+     Frasier:  Then how did I GET the invitation?
+Receptionist:  I really don't know.  You could have stolen it...
+
+[He returns to his work.  Niles comes into the reception area.]
+
+Frasier:  Are you accusing me of deception?
+
+[He notices Niles.]
+
+Frasier:  Cam!  Cam Winston!  There you are.
+
+[He gestures Niles over.]
+
+  Niles:  [in a deep voice]  Hello, Frasier.
+Frasier:  You know, while I was waiting for you, I decided to test the
+          mettle of this young man.  I'm pleased to report that he
+          follows the rules of La Porte D'Argent to the letter.
+
+[He and Niles laugh heartily.]
+
+Frasier:  Anyway, I am a guest of Mr. Cam Winston's here.  He told me
+          to meet him here, gave me the invitation and here I am.
+  Niles:  Yes, I'm Cam Winston and he's my guest and I asked him to
+          meet me here.
+
+[The receptionist checks his records, then hands folders across to
+them.]
+
+Receptionist:  Here you are, Mr. Winston.  Welcome to La Porte D'Argent.
+
+
+     Frasier:  Ah, thank you.
+Receptionist:  I hope you both enjoy your stay.  Take a moment to look
+               over our services and I'll be back in just a moment.
+
+[He heads through a silver door and the boys look over the folders.]
+
+Frasier:  [excited]  Niles, it's a day spa!
+  Niles:  [still in a deep voice]  Good gravy, this is fantastic!
+Frasier:  Would you stop talking like that?  That's the worst
+          impersonation of Cam Winston I've ever heard.
+  Niles:  You've heard another one?
+Frasier:  Of course not.
+  Niles:  Then it's the best!
+
+[They take seats.]
+
+Frasier:  Now you're stuck talking like that all day.
+
+[The receptionist comes back out.  Niles and Frasier rise and he holds
+out cards to them.]
+
+Receptionist:  Here are your keys, gentlemen.  Your estheticians will
+               be with you shortly.
+     Frasier:  Thank you.
+       Niles:  [booming]  Thank you.
+
+[He clears his throat and talks normally.]
+
+Niles:  Thank you.  Oh, I've been waiting for that all morning.
+
+[Frasier gives him a dry look as the receptionist leaves again.  They
+return to their seats and look over their choices.]
+
+Frasier:  Oh, Niles, the arovetic massage sounds splendid: two
+          therapists at once, using hot stones and a blend of essential
+          oils personally created for your dosha.
+  Niles:  I think I'll have the aromatherapy Swedish.
+Frasier:  Oh, Niles, look at this bounty!  Take a risk, be a man!
+  Niles:  [looking at the folder again]  The chardonnay/rose hip salt
+          glow?
+Frasier:  Now that's more like it.
+
+[An attendant comes out and hands them bundles with robes and sandals.]
+
+    Niles:  Hello.
+  Frasier:  Lovely.
+Attendant:  Right this way.
+
+[She leads them off.]
+
+  Niles:  Frasier, Frasier!  River rocks and a stalk of wheat!
+Frasier:  Ooh.
+
+[They follow the young lady through the door.  Fade out.]
+
+AFTER THE RUBBIN'
+
+Scene 3 - La Porte D'Argent
+
+[Fade in.  Frasier and Niles are putting their jackets back on after
+their therapies.]
+
+
+  Niles:  I knew it was going to be good, but I had no idea it would
+          be this good!  I feel like I've been rubbed by angels.
+Frasier:  Niles, I just wish you had tried the vusattasen
+          aqua-treatment.  I feel as if I'd had a rebirthing experience.
+          I've never felt better in my life.
+  Niles:  I'm so polished my entire body is squeaking.
+
+[He shifts.  They step up to check out.]
+
+Frasier:  Hello.
+  Clerk:  How was everything?
+  Niles:  Heaven.
+Frasier:  Nirvana.
+  Clerk:  I'm so glad.  Now, this is a breakdown of your services.
+
+[She hands them bills and they choke slightly upon reading them.]
+
+Frasier:  Nirvana ain't cheap.  Well, it's worth it, I suppose.  What
+          do you say we make this a standing appointment, Niles?
+  Niles:  Well, I think we owe it to ourselves.
+Frasier:  Yes.
+  Clerk:  I'd be happy to set that up.  Now, I've also put together a
+          personal La Porte D'Argent product system for each of you, based
+          on the recommendations of your estheticians.
+
+[She hands them bags and they gasp in delight at the contents.  Frasier
+tries a mist spray.]
+
+Frasier:  Oh, Niles, this smells great.  Try that.
+  Clerk:  Ah, the mid-afternoon anti-stress spritz.
+  Niles:  [studying something]  I've never even heard of eyelash
+          conditioner.
+Frasier:  Ah, hence the brittle lashes.
+
+[Niles brushes some on, then notices a man going through a gold door.]
+
+  Niles:  Say, isn't that Senator Ogden?
+Frasier:  It is!  Oh, Niles, this just gets better and better.
+          Balanced skin and social advancement all in one setting.
+          I'm going to go say hello.
+
+[He heads over, but the Senator has already gone through.  Frasier
+presses on the door.]
+
+  Clerk:  I'm sorry.  That area is restricted to our gold level
+          members.
+  Niles:  You have a gold level?  How do you get in?
+  Clerk:  You'd have to be on the list.
+Frasier:  Well, we ARE on the list.
+  Clerk:  The GOLD list.
+Frasier:  This is absurd!  I am a member of every exclusive club in
+          this entire town.  You must have a reciprocal membership
+          with one of them.
+  Clerk:  I'm sorry.  But you're more than welcome to enjoy the many
+          amenities of the silver level.
+Frasier:  And just how are we supposed to enjoy this!?
+
+[He angrily sprays the anti-stress spritz in his face.]
+
+Frasier:  And this isn't working!
+
+[He stands there fuming as Niles applies more eyelash conditioner.
+Fade out.]
+
+
+End of Act 1
+
+Act 2
+
+Scene 1 - Frasier's Apartment
+
+[Fade in.  Martin is in his chair and Daphne is on the couch, watching
+TV.]
+
+Daphne:  You never told me Rockford was Maverick.
+Martin:  Well, technically he isn't Maverick in this, he's Rockford.
+         Even though we all know he's secretly Maverick.
+Daphne:  I can see why you like this show.
+Martin:  Yeah, what's not to like?  Solving crimes, pretty girls, car
+         chases...
+Daphne:  Leisure suits.
+Martin:  Yeah.
+Daphne:  Rockford's dad reminds me of you.
+Martin:  [brow furrowing]  What are you talkin' about?
+Daphne:  Rockford's dad.  You're just like him: cranky but loveable.
+Martin:  The hell I am!  I'm like Rockford.
+Daphne:  How'd you get that?
+Martin:  Well, come on: he solves crimes, I solved crimes.  We're both
+         in tune with the beat of the street.  He's the kind of guy that
+         men want to be and women want to be with.  When this show
+         first came out, everybody used to say I was like Rockford.
+Daphne:  I'm sorry, I don't see it.  You still remind me of his dad.
+Martin:  Rocky?  But he's old.  [realizing the implication]  Oh, I see.
+Daphne:  I didn't mean that.  I just meant there's something about him
+         that reminds me of you.
+Martin:  His oldness?
+Daphne:  Oh, stop it!  If you want to be Rockford, you can be Rockford,
+         I don't care.
+Martin:  Fine, then let's just watch it.
+
+[They watch for a few moment, Martin quietly stewing.  Then he grabs
+the remote and turns off the TV.]
+
+Martin:  I don't want to watch this anymore.  Congratulations, you
+         ruined Rockford for me.
+
+[Frasier and Niles come in the front door.]
+
+  Niles:  I had a nagging feeling the whole time they were holding
+          something back on purpose.
+Frasier:  "Blended for your dosha," indeed!  They wouldn't know my dosha
+          if they fell over it!
+ Daphne:  So what kind of hoity toity place did it end up being?
+
+[Frasier paces around as Niles goes to get sherry.]
+
+Frasier:  It was a hell-hole!  They had the nerve to call it a day spa,
+          when it's nothing more than a mere front for a bona fide
+          luxury spa which taunts those kept at bay outside its golden
+          door!
+ Martin:  If you didn't go in, how do you know it's better?
+Frasier:  It had to be!  The door was gold, ours was only silver.  Gold
+          is better than silver.
+
+[He sits down as Niles brings sherries over.]
+
+Niles:  [muttering] Stupid silver.
+
+
+[He hands Frasier his sherry as Daphne rises and gives him a hug.]
+
+Daphne:  Well, you'll always be in my exclusive club, honey.
+ Niles:  Oh, thanks.  And that's all I need.
+
+[He sits next to Frasier.]
+
+  Niles:  There must be somebody who can get us in.
+Frasier:  Let's go comb our Rolodexes!
+
+[They both rise.]
+
+Niles:  Yes, there has to be a way out of the slum they call the silver
+        room.
+
+[Frasier heads to his room as Niles goes out the front.]
+
+Niles:  Why do I keep squeaking!?
+
+[He closes the door behind him.  Fade out.]
+
+Scene 2 - Cafe Nervosa
+
+[Fade in.  Frasier is sitting at a table.  Roz comes in.]
+
+Roz:  Hey, Frasier.  Wait 'til you see this.  It is so cool.
+
+[She sits down.]
+
+Frasier:  Really?  Well, I could use something to balm my wounds.
+          Painful as it is, I've come to accept that I shall never pass
+          through that spa's gold door.
+    Roz:  Anyway, I was filing your new head shot...
+Frasier:  Yes?
+    Roz:  And I started looking at your old ones, I went back to when
+          you first started?
+
+[She holds up a stack of photos and quickly flips through them,
+laughing.  Frasier gets a sour look on his face as she does it again.]
+
+    Roz:  Woo.
+Frasier:  What am I looking at?
+    Roz:  Oh, it's like an animation of your hairline receding.  Isn't
+          that great?  Okay, wait now, here's the good part: [she
+          flips them the other way] it's growing back!  Receding...
+          growing back.
+
+Frasier:  Yes, yes, all right Roz, that's enough!  All right!
+
+[He grabs at the photos to stop her.  Niles comes in.]
+
+    Roz:  Oh, don't be so sensitive.
+  Niles:  Hi.
+    Roz:  Hi.
+Frasier:  Oh, Niles, no good news, I suppose.
+  Niles:  I've had no luck getting us into the gold level.
+    Roz:  Are you guys really this bent out of shape over that gold
+          spa?
+Frasier:  Yes!
+    Roz:  Why can't you be happy with the silver one?
+  Niles:  Gold is better.
+    Roz:  Bull!  The only reason why you want to go there is because
+          you can't!
+
+
+Frasier:  We saw a senator go in there.  A senator!  We elected him,
+          he works for us!  How is it fair that our employee is
+          admitted while we are shunted off to the icy depths of silver
+          level?!
+    Roz:  It's a spa!  How much better could it be?  I mean, are they
+          gonna carry you around like a sultan?  You gonna be massaged
+          by supermodels?  And what if you do get through the gold
+          door?  What next, the diamond door?  And after that a
+          titanium door!  And after that a plutonium door!
+  Niles:  Oh, that's ridiculous.  Plutonium's radioactive, no one's
+          going to make a door out of it.
+Frasier:  Although Roz does make a point, Niles.  What kind of fantasy
+          are we chasing?
+
+[He sighs.]
+
+    Roz:  See?  I'm right.
+Frasier:  Oh, I'm sorry.  I'm just imagining supermodels with that
+          crook Senator Ogden.
+    Roz:  It was Senator Ogden? [laughing] I know him.
+  Niles:  You do?
+    Roz:  Yeah, he really owes me one, too.  Want me to give him a
+          call?
+Frasier:  Would you?  Absolutely!
+  Niles:  How do you know Senator Ogden?
+    Roz:  Well, I knew him a few years ago when his marriage was on the
+          rocks.  We kept it very hush-hush.  Thank God I knew CPR.
+
+[The brothers sit, digesting this.  Fade out.]
+
+Scene 3 - Frasier's Apartment
+
+[Fade in.  Daphne is on the couch, thumbing through TV Guide.  Martin
+is in his chair.]
+
+Daphne:  Rockford's on.
+Martin:  Not interested.
+Daphne:  Oh, come on, it looks like a good one.  Tom Seleck's in it.
+Martin:  Oh, those are good.  Not that I care.
+Daphne:  You know, I caught a few episodes at home, and I see the
+         resemblance between you and a young Jim Rockford.
+Martin:  No you don't.
+Daphne:  Yes I do.  No one gives him credit when he has a good idea.
+         He likes to drive a little too fast...
+Martin:  He has my chin!  He knows how to work the system and the babes
+         love him.
+Daphne:  Yes they do.  So what do you say?
+Martin:  Oh, okay, why not?
+
+[He turns on the TV.]
+
+Martin:  Ah, this is good.  Sorry I got so worked up.
+Daphne:  Oh, you can't help it.  You've got principles, like Rockford.
+Martin:  Okay, let's not lay it on too thick.  Oh, and look at that.
+         Malibu, California.  FYI, those mountains you see in the
+         background are the same ones you see at the beginning of MASH.
+Daphne:  Oh, I love MASH.  Whenever I watch it, I think of you.
+         Serving in Korea all those years ago, just like Colonel Potter.
+
+[Martin lets this sink in, then grabs the remote and shuts off the TV.]
+
+Martin:  That's it, go home.
+Daphne:  Why?
+
+
+Martin:  Colonel Potter was old when he did Dragnet!
+Daphne:  Colonel Potter, that funny young doctor that used to mix
+         martinis in his tent?
+Martin:  Oh, you're thinking of Hawkeye.
+Daphne:  Yes, that's who I meant.
+
+[Martin gives her a calculating look, while she looks back innocently.
+He reaches for the remote again.]
+
+Martin:  Okay.
+
+[He turns the TV back on and settles down happily.  Daphne sits back
+with a wide-eyed, sarcastic look at his willingness to go along.]
+
+DOOR JAM
+
+Scene 4 - La Porte D'Argent
+
+[Fade in.  It is a plant-filled room with the sounds of running water
+and birds.  A woman wheels Niles in on a gurney.  He is wrapped up like
+a mummy and has a facial and cucumber slices on his eyes.]
+
+Attendant:  I've taken you to the relaxation grotto.  We'll just let
+            the wrap and your orange honey-butter mask soothe you while
+            you listen to the healing sounds of the Javanese rain
+            forest, okay?
+
+Niles:  [murmuring sleepily] Okay.
+
+[She leaves him and passes Frasier as he comes in.  Blinking and
+shuffling in his robe, he runs into a potted tree.]
+
+Frasier:  Oh, excuse me.
+  Niles:  Frasier?  Frasier, is that you?
+Frasier:  Niles.
+  Niles:  What?
+Frasier:  I just had a, a color therapy treatment, my eyes haven't
+          readjusted yet.  They sent me in here to relax.
+  Niles:  I'm letting my orange honey-butter mask set.
+
+[They both sigh contentedly.  Frasier sits down.]
+
+Frasier:  Roz was so wrong.  Completely wrong.  Oh, there.  My eyes are
+          better.  Oh, Niles, you should see this place.
+  Niles:  Be my eyes, Frasier.
+Frasier:  [rising]  Well, it's just paradise.  From the rare exotic
+          orchids, to the trompe l'oeil sky, to the perfectly bubbled
+          stream, to the...
+
+[He stands there, stunned at what he sees.]
+
+  Niles:  To the what?
+Frasier:  There's a platinum door.
+  Niles:  Platinum?  Are you sure?
+Frasier:  Yes!
+  Niles:  Is it guarded?
+Frasier:  No!  It's just brazenly standing there!
+  Niles:  Then rip the cucumbers from my eyes and let's go!
+Frasier:  Right!
+
+[He takes the slices off Niles' eyes and helps him sit up.]
+
+
+Frasier:  Niles!  What are we doing?
+
+[He lets Niles fall back onto the gurney.]
+
+  Niles:  Oh.
+Frasier:  This is exactly what Roz said!
+  Niles:  No!  Roz said, "diamond door"!
+
+[He throws his legs over the side and manages to sit up, only to fall
+down the other way.]
+
+[N.B. During the filming of this scene, David Hyde Pierce fell off the 
+gurney and hit his head on the floor.  He had to be rushed to the 
+hospital, but no major injuries were reported.]
+
+Frasier:  Niles, this is heaven, right here and now!  Why do we have
+          think about someplace else?
+  Niles:  This is only heaven to the people that can't get into the
+          real heaven.  The platinum heaven.
+Frasier:  Niles, why can't we be happy?  Why must we allow the thought
+          of something that at this point can only be incrementally
+          better ruin what is here and now?
+  Niles:  I don't know.  Let's figure it out on the other side!
+
+[He heaves himself upright again, only to fall to the other side once
+more.]
+
+Frasier:  No!  I am through chasing the eternal carrot.  Whatever is
+          behind that door shall remain behind that door, unseen!
+
+[Niles thrashes again, finally managing to get up off the gurney.]
+
+Niles:  Stay if you want, I have to know!
+
+[He starts towards the door, but since he is wrapped down to the
+ankles, he can only take four inch steps.  Nonetheless, he shuffles
+rapidly and heads for the door.]
+
+Frasier:  Oh for God's sake, you can't even walk, you ninny!  All
+          right, all right, I will go, just to take a peek.
+
+[He heads for the door as an attendant comes into the grotto behind
+them to change the water pitcher.]
+
+Attendant:  I'm sorry.  Sir?  You're not allowed through there.  Please
+            remain in the relaxation grotto.
+
+[He heads out.  Frasier stands there, outraged.]
+
+Frasier:  "Please remain... in the relaxation grotto"?
+
+[Niles is heartbroken and almost sobbing.]
+
+Frasier:  Have crueler words ever been spoken?  Well, that's it.  I am
+          determined to see where they think I don't belong!
+  Niles:  Take me with you!
+
+[Frasier strides over, wraps his arms around Niles, lifts him up and
+carries him to the door.  He then kicks it open with his foot and
+sunlight streams into the room.  They gasp in delight.]
+
+Frasier:  Niles!  Healing warmth and light!  It must be a magnificent
+          solarium!
+
+
+  Niles:  Goodbye sweet and edible facials, hello radiant life-giving
+          sun!
+
+[Frasier carries him through the door.  Cut to - the other side of the
+door as the come through it, blinking in the light, letting the door
+close behind them.]
+
+  Niles:  It's beautiful, it's beautiful!
+Frasier:  Yes!  This is where we belong.
+
+[The shot pulls back to show that, rather than a solarium, they are in
+an alley behind the building, next to a trash dumpster.]
+
+  Niles:  Do you smell garbage?
+Frasier:  Oh dear, Niles.  I don't think this is part of the spa!
+
+[Leaving Niles propped against the dumpster he pounds on the door.]
+
+Frasier:  Hello!  Hello!  Anyone in the relaxation grotto!
+  Niles:  Frasier, look at all those bees.
+Frasier:  Bees?!  Niles!  Our sweet and edible facials!  Run!
+
+[He takes off down the alley.  Niles, still wrapped can only
+desperately shuffle after him.  Fade out.]
+
+Credits:
+
+Roz is at Cafe Nervosa with Senator Ogden.  She shows him the flip book
+of photos with Frasier's receding hair line.  They both laugh.  After
+a moment, though, the senator clutches his chest and falls to the
+floor.  Everyone rushes over while Roz, a frustrated look on her face,
+gets down to give him CPR again.
+
+Guest Appearances
+
+ Guest Starring
+ Hal Sparks as Receptionist
+ Sarah Shahi as Reservationist
+ Monica McSwain as Facialist
+ W. Scott Strassner as Attendant
+ Annie Wersching as Esthetician
+
+Legal Stuff
+
+  This episode capsule is copyright 2002 by David Langley. This episode
+  summary remains property of Frasier, Copyright of Paramount
+  Productions and NBC. Printed without permission.
+
+

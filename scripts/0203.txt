@@ -1,0 +1,754 @@
+
+[2.3]The Matchmaker
+
+The Matchmaker                                  Written by Joe Keenan
+                                                Directed by David Lee
+=====================================================================
+Production Code: 2.3
+Episode Number In Production Order: 28
+Episode Filmed on
+Original Airdate on NBC: 4th October 1994
+Transcript written on 18th February 1999
+Transcript revised on 8th February 2003
+
+Premise
+
+ When Daphne's love life is in a rut, Frasier acts as a matchmaker
+ and brings his new boss, Tom, to his apartment to try and put him
+ with Daphne.  There's just one catch Frasier doesn't realise; Tom's
+ gay and is interested in Frasier.
+
+Reviews
+
+Matthew Barr: 
+ Keenan's first outing (no pun intended) sets the record straight (no
+ pun intended) that Frasier's second season can hold up to the first.
+ After some lacklustre episodes, this episode begins Keenan's
+ tradition of farce that will continue to “The Two Mrs. Cranes” and
+ “The Ski Lodge.” Very well acted, with some great lines (“The Perils
+ of Refinement,” “If I could pick any man for Daphne, he's the one
+ I'd pick,” etc.), the only slow parts were the beginning which could
+ have had more of an impact.  Still, watch this episode for a gay old
+ time!
+ Grade: B+
+
+Michael Lee: 
+ This episode deserves special mention for two reasons: first, it marks 
+ the beginning of Joe Keenan’s tenure with “Frasier,” and a herald of 
+ some of the show’s all-time funniest episodes.  Second, it was a 
+ landmark in and of itself, and won a special award from GLAAD (the Gay 
+ and Lesbian Alliance Against Defamation), in recognition of the 
+ difficulty of introducing gay humor into a mainstream comedy show 
+ without conforming to stereotypes.  This is a challenge even for 
+ writers who are gay themselves, and Keenan succeeds brilliantly.  
+ The misunderstanding he sets up for the premise is perfectly credible, 
+ and Keenan hits several existing assumptions without relying on them 
+ to keep the plot going.  With this episode, “Frasier” (and Keenan) 
+ broke new ground and proved some important things, without which later 
+ shows like “Will & Grace” would not have been tried.
+ A-
+[This episode is virtually reproduced (but with Martin in the hot seat)
+in [7.15] Out With Dad]
+
+AWARDS & NOMINATIONS
+
+
+Won
+
+DIRECTORS GUILD OF AMERICA
+
+•  Outstanding Directorial Achievement in Comedy Series: David Lee, 
+   Bill Carroll, Brian James Ellis, Katy Garretson, Rick Beren
+
+EMMY
+
+•  Outstanding Directing for a Comedy Series: David Lee
+
+ENTERTAINMENT WEEKLY
+
+•  Reader’s Favorites: 4TH
+
+GLAAD MEDIA AWARDS
+
+•  Outstanding Comedy Episode
+
+WRITERS GUILD OF AMERICA
+
+•  Episodic Comedy (TV): Joe Keenan
+
+Nominated
+
+EMMY
+
+•  Outstanding Multi-Camera Picture Editing for a Series: Ron Volk
+•  Outstanding Writing for a Comedy Series: Joe Keenan
+
+Transcript {nicholas hartley}
+
+ACT ONE
+
+Scene One – Apartment – Night
+It’s late at night and everyone is fast asleep in the Crane household. 
+Suddenly, the fire alarm goes off. 
+
+Martin and Frasier come running out in their sleepwear, panicking. 
+
+Frasier: Oh my God!  Fire!
+ Martin: Eddie!  Eddie!  Where are you, boy?
+Frasier: Dad, wake up!  Dad, are you in there?
+ Martin: Eddie!  Here, Eddie!  Come on!
+Frasier: Dad, where are you?  Where’s the fire?
+
+Frasier turns the lights on.
+
+ Martin: Have you seen Eddie? 
+Frasier: What's burning?  Where's the fire?
+ Martin: Eddie!
+
+Then Daphne comes running out in her nightie.
+
+ Daphne: It's alright, it's alright!  False alarm!  The one above 
+         my bed went off.
+
+
+Frasier and Martin sag, breathing heavily.
+
+Frasier: Thank God!
+ Daphne: Oh, and don't worry about Eddie - he's back in my room.  
+         God, the noise the bloody thing makes!  It would be less 
+         upsetting just to wake up on fire! 
+ Martin: What the hell triggered it?
+ Daphne: Who knows?  I was dozing quite peacefully when it started
+         screaming away for no reason at all.
+
+Eddie runs in and jumps onto the chair with a packet of cigarettes 
+in his mouth.
+
+Frasier: I see. [takes the packet] What have we here?  Eddie, you've 
+         been smoking in Daphne's bedroom, bad dog! 
+ Daphne: I know, you have a no-smoking rule.  I'm sorry.  But every
+         now and again I feel a bit tense and I find a ciggy can be 
+         very soothing.
+ Martin: Oh yeah, it's real soothing.  It only should be an hour
+         before my heart stops fibrillating. [exits] 
+Frasier: [reading clock] Oh, it figures, 3 AM.  Of course this would
+         happen the night before I have an early morning meeting!
+
+He starts to exit, but notices Daphne sitting on the couch, depressed.
+
+Frasier: Daphne, aren't you going back to bed?
+ Daphne: No.  I'll just sit up for a bit, I'm feeling a bit blue.
+Frasier: Anything you'd like to talk about?
+ Daphne: No, you need your sleep, it's nothing important. [he starts to 
+         exit] Just this feeling that my life's a gaping sinkhole and 
+         I'm just marking time while the flower of my youth rots on the 
+         vine. 
+Frasier: [eager to escape] Well, so long as you’re sure. 
+
+He starts to exit again, but then Daphne sinks back, giving off a truly 
+pathetic whine that is an obvious plea for help.  He has no choice but
+to come back.
+
+Frasier: I really wish you'd tell me about it.
+ Daphne: Well, if you must know, it's my love life.
+Frasier: Really?  You've been seeing a man?
+ Daphne: Only when I close my eyes and concentrate. 
+Frasier: Ah, I see.  You're going through a bit of a drought, eh?
+ Daphne: No wonder.  The rare times I do go out, it's usually with
+         your father.  People see us and assume I'm his daughter, or
+         else his girlfriend.  Either way, it's like having my own
+         personal can of stud repellant.
+Frasier: Yes well, I know how bleak these times can be.  But believe
+         me, they will come to an end sooner or later.  I remember a
+         time back in Boston when I was going through exactly what 
+         you're going through now.  Just a week later I met a lovely 
+         barmaid – sophisticated, if a bit loquacious.  We fell madly 
+         in love, we got engaged... [realizes] Of course, she left 
+         me standing at the altar.  But the point is, I didn't give up.  
+         I took my poor, battered heart and offered it to Lilith... 
+         [thinks, as Daphne lights a cigarette] Who put it in her 
+         little Cuisinart and hit the purée button!  But, I rebounded!  
+         And look how far I've come... I'm divorced, lonely, and living 
+         with my father.
+
+Frasier takes Daphne’s cigarette and takes a drag.
+
+
+FADE OUT
+
+Scene Two – Café Nervosa
+The next day, Frasier is sitting at a table.  Roz comes in.
+
+    Roz: I figured I'd find you here!  You know, you missed your
+         meeting with the new station manager.
+Frasier: Oh no, I completely forgot.
+    Roz: God, you look like you've been ridden hard and put away wet.
+Frasier: I was up till all hours of the night with Daphne, competing
+         to see which one of us had the most pathetic love life.  On
+         the bright side, I won.
+    Roz: Well, I know what your problems are.  What are Daphne's?
+Frasier: She's just having trouble finding men.
+
+Roz opens her purse and holds up a little black book.
+
+    Roz: Say no more!
+Frasier: [trying to be tactful] No, Roz, Roz, it's really not 
+         necessary.  You do not have to donate one of your 
+         boyfriends to Daphne. 
+    Roz: Oh, come on, I'd be happy to.
+Frasier: But still, one hates to break up a collection.
+
+He tries to get her to close the book, as Niles returns to the table
+with coffees for himself and Frasier.
+
+  Niles: [sitting down] There we go - double espresso, and my mocha
+         latte.  Do those chocolate shavings look any different to 
+         you?
+Frasier: No.
+  Niles: Well, they do to me.  I think they've switched to an inferior
+         domestic brand. [takes a sip and swishes them around like 
+         wine] Mmm-hmm, mmm-hmm - waxy.
+    Roz: [finding a name] Oh, here we go!  Sven Bachman, he's an 
+         aerobics instructor.
+Frasier: I don't think so.
+    Roz: Oh, this one's perfect!  Gunther Dietrich.  He's loads of fun,
+         and he's a runway model. 
+Frasier: A German narcissist; now there's an appealing combination.
+    Roz: Okay, okay, I'll keep looking.
+  Niles: Looking for what?
+    Roz: I'm helping Frasier find a man for Daphne.
+
+Niles puts down his cup and adopts a bland expression and tone 
+that do nothing to hide his outrage.
+
+  Niles: [lightly] What?
+    Roz: Here we go!  He's a tennis instructor, and his name is Brick.
+  Niles: Dear God, Frasier - Sven, Gunther, Brick?  Why not just lather
+         Daphne up with baby oil and hurl her over the wall of a prison 
+         yard?
+    Roz: Excuse me, but I've dated all these guys.
+  Niles: Well, where do you think I came up with the imagery?
+
+This makes Roz really furious.
+
+    Roz: Listen, you little titmouse-!
+
+Niles's temper also flares.
+
+Frasier: [coming between them] Alright!  Niles: you are completely out 
+         of line here.  And Roz: he does have a point.  You and Daphne 
+
+
+         are entirely different kinds of women.  Whilst Daphne is very 
+         shy and inexperienced, you are more... well, a lot more... 
+         well, actually it's hard to find anyone who's more...
+    Roz: Oh, I get it!  Not one man I've ever dated is good enough for
+         Miss Daphne, is that what you're trying to say?
+Frasier: No, it's what I'm trying not to say, and you're not making it
+         very easy.
+    Roz: [getting up] Oh, I’m out of here.
+Frasier: Oh, Roz, please wait.
+    Roz: Oh no, I can't stay, the fleet's in!
+
+She storms out.
+
+FADE TO:
+
+Scene Three - KACL
+Frasier is doing his show, but waiting while a piercing tone sounds 
+over the air.  Frasier resumes when it finishes.
+
+Frasier: And this concludes our test of the emergency broadcast system.  
+         Had this been a real emergency, your radio would be melting in 
+         your hands.  We'll be right back after these messages. 
+
+He goes to commercial.  Roz stalks in and slams a half-eaten donut 
+onto his console.
+
+    Roz: In the future, please keep your disgusting half-eaten food
+         off my console.  In fact, just stay out of my sight!
+Frasier: You're still mad at me, I can tell.
+    Roz: [nasty] And there's that keen sensitivity that keeps you in 
+         such demand with the ladies. 
+
+She goes back into her booth, he follows her.
+
+Frasier: Look Roz, I'm sorry if I insulted you earlier.  But the truth 
+         is, I feel very protective of Daphne.  See, the kind of man 
+         I'm looking for has to be good-looking, smart, successful...
+
+Behind Frasier, Tom Duran, the new station manager, enters the booth.
+He instantly seems to embody all the virtues Frasier enumerated.
+
+    Tom: Excuse me.
+Frasier: Yes?
+    Tom: I'm Tom Duran, the new station manager. 
+Frasier: Oh!  Tom, hey, it's a pleasure to meet you.  I'm so sorry
+         about missing the meeting this morning, I slept right
+         through it.
+    Tom: Oh yeah me too, and I was there. 
+
+Frasier laughs.
+
+    Tom: Say, that's a beautiful tie.
+Frasier: Oh, thank you.  Yes, I got this one in London at one of those
+         custom shops just of off Sloane Square. 
+    Tom: You know, I just came from London.  I spent the last five
+         years working for the BBC.
+Frasier: Really?  I love London - the museums, the theatre...
+    Tom: Oh yeah, I'm a big theatre buff, three shows a week.  I hated
+         leaving.
+Frasier: I can imagine.  Why did you?
+    Tom: Well, I just kind of went through a messy break-up.  I thought
+         I'd sleep better with a continent between us. 
+Frasier: Yes, I know the feeling! [clicks] So, I take it then you're
+
+
+         unattached?
+    Tom: Yes, but I haven't given up hope.
+Frasier: Well, you may have come to the right place.
+    Tom: Really?
+Frasier: Yes.  You say you're very fond of the English?
+    Tom: Oh yes, very much.  You know, I think I've always had a
+         weakness for people who are just a little eccentric. 
+Frasier: [now really interested] Really?
+    Roz: Fifteen seconds.
+    Tom: Well, it was nice meeting you.
+Frasier: Likewise. 
+
+Frasier sits at his console.  Tom starts to leave.
+
+Frasier: Uh, say Tom, this may sound like short notice, but if you're 
+         not busy Saturday, why don't you come round my place for 
+         dinner?  Nothing fancy.
+    Tom: Well thanks, I'd like that. 
+Frasier: Great! 
+
+Tom exits through the door and Frasier goes on the air.
+
+Frasier: Hello Seattle, we're back.  Roz, who do we have up next?
+    Roz: We have James from Tacoma on line one. 
+Frasier: Hello James, I'm listening...
+
+Tom walks down the hall and enters Roz's booth.  While Frasier is 
+engaged with his caller Roz gets up and starts checking the carts on 
+the wall.  They begin chatting about his fair Frasier.
+
+    Tom: Hi, Roz.
+    Roz: Hi, Tom.  How’s it going?
+    Tom: Well, you know, it's the same with every job I take.  The word
+         flies like wild fire. 
+    Roz: What's that?
+    Tom: Oh, you know, you tell one or two people you're gay and before 
+         you can blink it's all over the station. 
+    Roz: Well, they don't call it “broadcasting” for nothing.
+    Tom: He seems like a nice guy.
+    Roz: Oh, he's OK.
+    Tom: I hope he's more than OK, he just asked me out on a date.
+
+As Roz turns around in surprise, Frasier notices Roz talking to Tom 
+and waves for her to stop.
+
+    Roz: Frasier just asked you out on a date?
+    Tom: Well, he asked me to his place for dinner.  So I wanted to ask
+         you, is there any particular wine he likes?
+    Roz: Listen Tom, there is something I think you need to know
+         about Frasier...
+    Tom: What? 
+
+Frasier holds up a card: "HANDS OFF HE'S TAKEN!"
+
+    Roz: He's nuts about chardonnay.
+    Tom: Thanks!
+
+He leaves.  Roz shrugs innocently at Frasier.
+
+FADE TO:
+
+THE PERILS OF REFINEMENT
+
+
+Scene Four – Apartment
+Saturday evening, Frasier is setting up the apartment while a furious 
+Daphne is setting the table.
+
+ Daphne: Does he ask permission first?  Oh no, he just barges in and
+         says he's set me up with God-knows-who, and I'm supposed to
+         turn cartwheels like I'm bloody Cinderella.
+Frasier: Will you please relax?  Look, I told you, this is not a set-
+         up.  Tom doesn't even know you'll be here.
+ Daphne: Oh, an ambush then.  Much nicer!  My girlfriends in Manchester
+         used to set me up all the time.  And it was always some
+         gangly bounder with a boarding-house reach.  And he wasn't
+         going for the Coleman's Hot Mustard, if you know what I
+         mean!
+Frasier: Just keep in mind, Tom is just a co-worker who's coming by 
+         for a pleasant little dinner.  If some sparks should ignite, 
+         then fine, but there is no pressure, absolutely no pressure... 
+         is that what you're wearing?
+
+Daphne looks down at her fairly plain housedress.
+
+ Daphne: Why, what's wrong with it? 
+
+The doorbell rings.
+
+Frasier: Don't you have something with a little more oomph?  Oh, what 
+         About that, that strapless number you have? [motions down his 
+         hips]
+ Daphne: Do you have any idea how uncomfortable a strapless bra is?
+Frasier: Well, thanks to my fraternity days, as a matter of fact I do!
+
+He motions for Daphne to go and change, which she reluctantly does.  
+He opens the door to Tom, dressed in a casual suit and carrying a 
+bottle of wine.
+
+Frasier: Tom!  Come on in.
+    Tom: Hi, Frasier.
+Frasier: Good to see you.
+    Tom: [re: wine] Oh, I don't know, something told me you 
+         might like chardonnay.
+Frasier: Oh my, that's my favorite.  So, what do you think of this
+         place?
+    Tom: [looking out the window] That’s a hell of a view!
+Frasier: It's even better from the bedroom.
+
+Tom reacts to this, but Frasier doesn’t realize.
+
+    Tom: Why don't we just start with the drink?
+
+Frasier laughs.
+
+    Tom: [re: dining table] Oh, four places, who's joining us?
+Frasier: Oh, just my little household: my father and his charming 
+         physical therapist, Daphne. 
+    Tom: You live with your dad?  I can't even imagine that.  Well, I
+         mean it's great that you get along so well, but doesn’t, um...
+         having him here put a crimp in your love life?
+Frasier: Oh, not at all.  Except when I bring my dates home, he tries
+         to steal them.  
+
+Tom reacts to this as well.
+
+
+Frasier: He's quite the old rascal!
+
+Daphne enters in a short red strapless dress.
+
+Frasier: Well, look who we have here.  Tom, I'd like you to meet 
+         Daphne.  Daphne this is Tom Duran.
+    Tom: [shaking hands] Pleasure to meet you.
+ Daphne: Likewise.  Oh, Dr. Crane, you didn't take his coat!
+Frasier: Oh, sorry.
+ Daphne: May I?
+
+Tom turns around.  As Daphne takes his coat, she turns to Frasier, 
+ecstatic, and mouths, “HE’S GORGEOUS!  THANK YOU, THANK YOU!”
+
+Frasier mouths back, “YOU LOOK FABULOUS!  YOU LOOK FABULOUS!”
+
+They stop as Tom turns round again.  She drapes the coat over her arm 
+and starts to carry it to the rack, then stops.
+
+ Daphne: Oh, this is strange, I'm picking up a vibration from your
+         coat.
+    Tom: Excuse me?
+Frasier: Yes well, Daphne feels she possesses psychic powers - you
+         know those English eccentrics. 
+ Daphne: [comes back and takes Tom’s hand] Oh, you've just been 
+         through a very painful break-up, haven't you?
+    Tom: Yes! [then, to Frasier] Oh, wait a minute, you told her that, 
+         didn't you?
+Frasier: No, no.
+ Daphne: There was a bitter dispute about ownership of opera 
+         recordings.
+    Tom: [drops onto the couch] Whoa!
+
+Having made her mark, Daphne makes a graceful exit.
+
+ Daphne: Now, if you’ll excuse me, I'll nip into the kitchen.  I have a
+         bird to baste. [exits]
+Frasier: Quite something, isn't she?
+    Tom: Yeah, she's great.  I love hearing that accent again. 
+ Martin: [entering] Hey Frasier, I don't have to put a tie on for this
+         joker, do I? [sees Tom] 
+Frasier: Tom, this is my father, Martin Crane.
+    Tom: Tom Duran, nice to meet you.  
+ Martin: [shaking hands] I'm sorry about that “joker” business. 
+         [Tom waves it off] I call everybody joker, jerk, pinhead, 
+         bozo...
+Frasier: And amazingly he's free for dinner on short notice.  
+         Why don't I just open some of this wonderful wine?
+
+He goes into the kitchen, where he checks on Daphne's feelings.
+
+Frasier: Well?
+ Daphne: Oh, he's a looker.  I'm glad you made me put on my lucky bra.
+         He's worth every wire digging into my ribcage. 
+Frasier: Yes, you've made quite an impression on him too.  He thinks
+         you're great! 
+ Daphne: Oh, go on! [giggles] God, listen to me getting carried away 
+         like a school girl when I've just met the man.  No, I'm not 
+         raising my hopes tonight - though I'm glad I raised my bosom. 
+
+Meanwhile, Martin and Tom are having a chat in the living room.
+
+ Martin: Yeah, let me tell you, you’re gonna love Seattle.  It's a real
+
+
+         people place.  Great food, great bars...
+    Tom: I've heard that.  Any you recommend?
+ Martin: Yeah, I usually hang out at a place called Duke’s.  Great
+         crowd, lot of young cops. [Tom is pleased] So, do you like
+         football?
+    Tom: Yeah, yeah, I really missed it when I was living in London.
+ Martin: Yeah, well maybe we can take you to see a Seahawks game
+         sometime.  Frasier hates it, so it'd just be us.
+    Tom: Hey, Frasier warned me about you!
+ Martin: Yeah, I guess I yell at the players too loud. [laughs]
+Frasier: [entering] Here we are, Tom. [hands him wine] Dad, I took
+         the liberty of selecting an amusing little vintage for you
+         too. [hands him a Ballantine] Sorry, I didn't bring the 
+         pull-tab so you could sniff it. 
+ Martin: Merci beaucoup. [pronounces it “mercy bow-coop.”]
+
+The doorbell sounds so Frasier goes to answer it.  Niles is standing
+there with a book.
+
+  Niles: Hello, Frasier. [takes Frasier’s wine glass] Oh, thank you.  
+         I just stopped by to return your book. [hands it over]
+Frasier: Oh yes, thank you, well don't let me keep you. 
+  Niles: Am I interrupting something?
+Frasier: As a matter of fact, I'm introducing a man to Daphne.
+  Niles: Ah!  Guess you don't want me around then. [walks in] How
+         do you do?  I'm Dr. Niles Crane.
+    Tom: Hi, I'm Tom Duran. 
+ Daphne: [peeks out] Bird's all done.  Now all I need is a pair of big
+         strong arms to haul it out of the oven.
+  Niles: Well, I certainly don't need to be asked twice. 
+
+He quickly walks into the kitchen, to Daphne's disappointment and 
+Frasier's anger.
+
+END OF ACT ONE (Time: 14:10)
+
+ACT TWO
+
+Scene Five - Apartment
+During dinner, Tom is telling a story about the queen in the middle 
+of an interview.
+
+    Tom: So, halfway through the interview her stomach starts rumbling.  
+         And her body mike's picking it up, but I have to ignore it.  
+         Because what am I going to say; "Would her majesty care for 
+         a Tums?" 
+
+Everyone laughs - except Niles, who is being rather immature as usual.
+
+ Daphne: I could listen to your stories all night.  They're so funny. 
+  Niles: And all involving bodily functions.
+ Daphne: Tom, I could use a little hand in the kitchen...
+  Niles: No, no, sit Daphne, after all that cooking you must be...
+         [looks down her frock] absolutely strapless.
+
+Niles exits to the kitchen, leaving Daphne disappointed again.
+
+In the kitchen, Niles puts a few things into the sink.  Tom enters,
+slightly piqued.
+
+    Tom: Er, Niles, can I speak with you for a moment?
+  Niles: Yes. [slaps down silverware]
+    Tom: I was wondering, did I do anything that offended you? 
+
+
+  Niles: No. [angrily throws pots into the sink]
+    Tom: Oh.  It must be all in my head, but I sensed that you had a
+         problem with me dating Frasier.
+  Niles: [turns round] Well, if you must know...
+
+A twenty-second pause ensues while he wonders if his hearing is faulty.
+
+  Niles: I'm sorry, what was the question?
+    Tom: [crosses his arms] Do you have some problem with me 
+         dating your brother?
+
+Now Niles understands all, and becomes as serene as a Buddha.
+
+  Niles: [graciously] No.
+Frasier: [entering] Now Niles, I didn't ask Tom to dinner so he could 
+         talk with you all night in the kitchen.  There are others who 
+         would like to have a crack at him! 
+
+Frasier and Tom exit.  Niles just stands there with a small smile that 
+threatens to explode into hysterics.  Rocking slightly, he twirls once
+on his heel, as Martin enters with some plates.
+
+ Martin: That Tom's a great guy, huh?  You think maybe him and
+         Daphne...
+
+Niles shakes his head, combining laughter with a negative “Mmm-mmm.”
+
+On the balcony, Tom, Frasier and Daphne are having a little chat.
+
+    Tom: You know, I can't remember the last time I had such a
+         wonderful evening.
+ Daphne: Oh no, we should be thanking you.  I can't remember when I’ve
+         laughed so hard.
+
+From inside the apartment they suddenly hear Martin roaring with 
+laughter.  They look and see him doubled over in the kitchen, while 
+Niles laughs along.
+
+ Daphne: You’ve still got Mr. Crane going.
+Frasier: Daphne, I think a little after dinner music would be
+         appropriate. 
+ Daphne: Good idea. [she goes to the stereo]
+Frasier: She's, er, quite a woman, isn't she?
+    Tom: [flatly:] Yes, she's really something, [suggestive:] 
+         Um, Frasier, I was wondering.
+Frasier: Yes?
+    Tom: Do you think before the evening's over we could get a little
+         one-on-one time?
+Frasier: Oh, I think I can arrange that. 
+
+He goes inside while Daphne is putting on music.  They both whisper:
+
+Frasier: Daphne!
+ Daphne: Yes?
+Frasier: He says he wants to be alone with you!
+ Daphne: No!
+Frasier: Yes!
+ Daphne: This really is my lucky bra!  Keep the wine flowing, I'll go 
+         fix my lipstick.
+Frasier: Okay.
+
+She exits to her room.  Martin and Niles come back from the kitchen.
+
+
+ Martin: Yeah, I guess I'd better be hitting the old sack.  Don't
+         want to stand in the way of young romance! [hides a grin]
+Frasier: Thanks, dad.
+ Martin: Goodnight, Tom.
+    Tom: Goodnight, Martin. 
+
+Martin exits to the hallway.
+
+Frasier: And Niles, isn't it time you were running along too?
+  Niles: Yes, I must be on my way.  And, Frasier, I must apologise, 
+         I was wrong about Tom.  If I had to choose a man for Daphne,
+         he's the one I'd pick. 
+Frasier: Good. 
+  Niles: Goodnight Tom, nice to meet you. 
+    Tom: Goodnight.
+  Niles: Frasier, a word in your ear? 
+
+Surprised, Frasier motions “one second” to Tom, and follows Niles out 
+the front door into the corridor.
+
+  Niles: There’s something I have to tell you.  Dad wanted to but I
+         won the coin toss. 
+Frasier: Yes, what is it?
+  Niles: Well, I had a little chat with Tom in the kitchen and he
+         told me he's interested in pursing a romantic relationship.
+         But, the object of his affections is not Daphne.
+Frasier: Damn that Roz!
+  Niles: No, no.  It's you.
+
+Beat.
+
+Frasier: Me?  That's impossible, Tom's not gay!
+  Niles: He seems to be under that impression. 
+Frasier: Well, what on earth could have made him think I was 
+         interested in him?  All I did was ask him if he was 
+         attached, and then we talked about the theatre and 
+         men's fashions... [clicks] Oh my God!  Niles, do you 
+         realise what this means?
+  Niles: Yes, you're dating your boss.  You of all people should know
+         the pitfalls of an office relationship.
+Frasier: Yes, but he... he just never mentioned the fact he...
+  Niles: [in elevator:] I'll call you tomorrow.  But not too early, 
+         of course. [the doors close on Niles’s laugh]
+
+Frasier, sweating like a pig and as red as a beetroot enters the room.  
+The romantic music that Daphne put on is playing.  Tom is lounging on 
+the couch, massaging his neck.  His glasses are off, and he casts a sly 
+look at Frasier that leaves no room for doubt. 
+
+    Tom: So...
+Frasier: So... God, I hate this song.
+
+He runs over and turns the stereo off.
+
+    Tom: You know, I've broken my rule for you.  I usually don't date
+         guys I work with.
+Frasier: Yes, well, I've sort of relaxed my rule for you too. 
+    Tom: You're cute when you're nervous.
+Frasier: I must be downright adorable now then.  Listen Tom, I'm 
+         sorry, but we seem to have gotten our lines crossed here.
+         The truth is I'm entirely straight.
+    Tom: [puts on his glasses] Hey, if you're not interested just say 
+         so.
+
+
+Frasier: Oh no, it's true, I really am.  I just invited you to dinner
+         because you seemed so charming and you were so fond of the
+         British, I thought you might be the perfect man for Daphne. 
+
+Daphne enters from the hallway just in time to hear:
+
+    Tom: I can't believe this.  You really had no idea that I'm gay? 
+
+Daphne stops, unclasps her not-so-lucky bra and walks back 
+to her bedroom, chucking the bra up in the air as she goes.  
+The two men stand in embarrassed silence for a moment.
+
+Frasier: Don't take this wrong, but it never even occurred to me you 
+         might be gay.
+    Tom: Well, it never even occurred to me that you might be straight.
+Frasier: [uncertain] Thank you.  Geez, Tom, I feel just awful. Seems 
+         I've just been leading you on all night. 
+    Tom: [getting his coat] Oh, it's OK.  It’s an honest mistake.
+Frasier: Yes, but I've been pouring you drinks, building up your
+         hopes, making you think you might have found a man
+         sophisticated and sensitive enough to help you...
+    Tom: [amused] Frasier, I'll learn to love again.
+Frasier: [chuckles] Yes, of course.
+
+Tom goes to the door.
+
+    Tom: You'll apologize to Daphne?
+Frasier: For the rest of my days.
+    Tom: [starts to leave, then] Does this mean your dad's not gay 
+         either?
+Frasier: No, no, dad's not gay.
+    Tom: [starts to leave again, then] But Niles - come on! [laughs]
+Frasier: [smiles] No, I'm afraid not.
+    Tom: Huh... so wait a minute, this Maris guy he kept mentioning is 
+         a woman?
+Frasier: Well, the jury's still out on that one. 
+
+Tom grimaces and leaves, waving goodnight.
+
+END OF ACT TWO (Time: 21:16)
+
+Credits:
+
+Frasier and Daphne are sitting up late at night, smoking and drinking
+cognac.  Frasier picks up the packet and reads the health warning and 
+ingredients list on the side.  He shows it to Daphne.  They stub out 
+their cigarettes immediately, then throw back the rest of their cognacs.
+
+Guest Appearances
+
+ Guest Starring
+ ERIC LUTES as Tom Duran
+
+Legal Stuff
+
+ This episode capsule is copyright 1999 by Nick Hartley. This
+ episode summary remains property of Frasier, Copyright of Paramount
+
+ Productions and NBC. Printed without permission.
+
+
+
