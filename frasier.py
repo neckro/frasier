@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/env python3
 # coding=utf-8
 
 import fileinput
@@ -10,7 +10,7 @@ from glob import glob
 def parse(input, characters=[], prefix_speaker=False):
     if len(characters) == 0:
         characters = ["Frasier"]
-    characters = map(str.lower, characters)
+    characters = list(map(str.lower, characters))
     parse = False
     out = ""
     for line in input:
@@ -22,7 +22,6 @@ def parse(input, characters=[], prefix_speaker=False):
             text = result.group(3)
             if any(c.lower() in speaker for c in characters):
                 parse = True
-                print_out(out)
                 if prefix_speaker:
                     out = speaker + ": " + text
                 else:
@@ -32,13 +31,12 @@ def parse(input, characters=[], prefix_speaker=False):
             result = match(r"^ {8}(.+?)$", line)
             if result:
                 text = result.group(1).strip()
-                if text[len(text)-1] != u"-":
-                    out += u" "
+                if text[len(text)-1] != "-":
+                    out += " "
                 out += text
             else:
                 parse = False
-    if len(out) > 0:
-        print_out(out)
+                print_out(out)
 
 
 def print_out(out):
@@ -46,17 +44,18 @@ def print_out(out):
     out = sub(r" +", " ", out).strip()
     if len(out) > 0:
         out = unsmarten(out)
-        print out.encode("utf-8")
+        print(out)
 
 
 def unsmarten(text):
     # smart single quotes: ‘’
-    text = text.replace(u"\u2018", "'").replace(u"\u2019", "'")
+    text = text.replace("\u2018", "'").replace("\u2019", "'")
     # smart double quotes: “”
-    text = text.replace(u"\u201c", '"').replace(u"\u201d", '"')
+    text = text.replace("\u201c", '"').replace("\u201d", '"')
     # dashes: –
-    text = text.replace(u"\u2013", "-")
+    text = text.replace("\u2013", "-")
     return text
+
 
 if __name__ == "__main__":
     input = fileinput.FileInput(
